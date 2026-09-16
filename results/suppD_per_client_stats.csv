@@ -1,0 +1,3 @@
+dataset,pc_asr_mean,pc_asr_std,pc_f1_mean,pc_f1_std,pc_fpr_mean,pc_fpr_std,viper_asr_mean,viper_asr_std,viper_f1_mean,viper_f1_std,viper_fpr_mean,viper_fpr_std
+scifact,0.0,0.0,0.5,0.0,0.1,0.0,0.0,0.0,0.544,0.002,0.084,0.001
+nfcorpus,0.0,0.0,0.5,0.0,0.1,0.0,0.08,0.017,0.56,0.005,0.073,0.001
