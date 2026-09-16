@@ -1,0 +1,9 @@
+method,paradigm,poison_score_mean,clean_score_mean,caught,fp,asr,f1,fpr,precision,recall,note
+Centroid,Spatial Geometry,0.6968,0.8213,124,170,0.417,0.529,0.049,0.422,0.709,single_seed
+kNN Distance,Spatial Geometry,0.2588,0.1628,133,419,0.326,0.366,0.12,0.241,0.76,single_seed
+TRAP/PCA,Topological Manifold,0.5977,0.4125,111,50,0.52,0.661,0.014,0.689,0.634,single_seed
+C.O.R.E (in-domain),Correlation,0.8942,0.4073,150,48,0.303,0.804,0.014,0.758,0.857,fixed_thresh=0.80
+Kurtosis,Statistical,8.1244,12.6719,136,232,0.314,0.501,0.066,0.37,0.777,single_seed
+Skewness,Statistical,-0.1425,0.134,65,303,0.72,0.239,0.087,0.177,0.371,single_seed
+Shannon Entropy,Info Theory,5.5805,5.5628,45,323,0.806,0.166,0.092,0.122,0.257,single_seed
+Autoencoder (no oracle),Non-linear Manifold,0.0012,0.0008,123,116,0.429,0.594,0.033,0.515,0.703,no_oracle_realistic
