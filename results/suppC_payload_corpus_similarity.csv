@@ -1,0 +1,3 @@
+dataset,payload_centroid_sim,payload_nearest_doc_sim,payload_corpus_mean_sim,inter_payload_sim,domain_type
+scifact,0.6897,0.6993,0.5478,0.6497,cross-domain
+nfcorpus,0.7227,0.7434,0.5936,0.6131,in-domain
