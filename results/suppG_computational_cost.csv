@@ -1,0 +1,8 @@
+method,latency_ms_mean,latency_ms_std,throughput_vec_sec,n_vectors
+no_defense,0.0,0.0,1501367927.7,5250
+krum,0.3015,0.0022,3316.9,5250
+fltrust,0.0004,0.0001,2785473.4,5250
+isolation_forest,0.0512,0.0053,19517.2,5250
+lof,0.0612,0.0008,16343.3,5250
+strip,1.8635,0.1253,536.6,5250
+viper,3.487,0.0181,286.8,5250
