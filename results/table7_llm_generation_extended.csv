@@ -1,0 +1,4 @@
+scenario,n_seeds,n_queries_per_seed,total_evaluations,retrieval_asr_mean,retrieval_asr_std,generation_asr_mean,generation_asr_std
+no_attack,5,10,50,0.0,0.0,0.0,0.0
+attack_no_defense,5,10,50,1.0,0.0,0.68,0.098
+attack_with_viper,5,10,50,0.0,0.0,0.0,0.0
