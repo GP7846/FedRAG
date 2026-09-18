@@ -1,0 +1,3 @@
+dataset,poison_res_norm_mean,poison_res_norm_std,clean_res_norm_mean,clean_res_norm_std,poison_pairwise_cos_mean,poison_pairwise_cos_std,clean_pairwise_cos_mean,clean_pairwise_cos_std,norm_ratio
+scifact,0.5065,0.0013,0.4284,0.0001,0.1168,0.0005,-0.0,0.0003,1.182
+nfcorpus,0.5972,0.0004,0.4124,0.0001,0.1705,0.0022,0.0004,0.0002,1.448
